@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="home_price">Home Price</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="custom_loan_duration">Custom Loan Duration</string>
+    <string name="custom_monthly_payment">Custom Monthly Payment</string>
+    <string name="_30_year_monthly_payment">30 Year Monthly Payment</string>
+    <string name="_20_year_monthly_payment">20 Year Monthly Payment</string>
+    <string name="_10_year_monthly_payment">10 Year Monthly Payment</string>
+    <string name="calculate">Calculate</string>
+</resources>
